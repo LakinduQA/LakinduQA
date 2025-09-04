@@ -53,7 +53,7 @@ I’m a self-taught QA Engineer and Information Systems undergraduate with hands
 <tr>
 <td align="center" bgcolor="#f0f4f8" width="300" style="border-radius:10px; padding:10px;">
 <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" width="40px"><br><br>
-<a href="https://github.com/LakinduQA/playwright_ifs.com"><b>Playwright Automation for IFS Website</b></a><br>
+<a href="https://github.com/LakinduQA/playwright_ifs.com"><b>Playwright Automation for IFS.com</b></a><br>
 End-to-end UI automation using Playwright.
 </td>
 
@@ -73,20 +73,22 @@ Applying the Software Testing Life Cycle on a real-world demo application.
 <tr>
 <td align="center">
 <a href="https://medium.com/@lakindudesilva007/the-future-of-qa-in-the-age-of-ai-will-ai-replace-testers-or-make-us-stronger-3cfb7fbcee43">
-<img src="https://miro.medium.com/max/400/1*image_placeholder_here.png" width="200px"><br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="20px"> The Future of QA in the Age of AI
+<img src="images/IMG_9030.PNG" width="200px"><br>
+<img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" width="60px"> The Future of QA in the Age of AI
 </a>
 </td>
+
 <td align="center">
 <a href="https://medium.com/@lakindudesilva007/why-domain-knowledge-matters-more-than-tools-in-qa-1bdb15c74237">
-<img src="https://miro.medium.com/max/400/1*image_placeholder_here.png" width="200px"><br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="20px"> Why Domain Knowledge Matters More Than Tools in QA
+<img src="images/IMG_9640.PNG" width="200px"><br>
+<img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" width="60px"> Why Domain Knowledge Matters More Than Tools in QA
 </a>
 </td>
+
 <td align="center">
 <a href="https://medium.com/@lakindudesilva007/shift-left-and-shift-right-testing-in-qaops-a-mindset-shift-for-continuous-quality-85ef943ed14f">
-<img src="https://miro.medium.com/max/400/1*image_placeholder_here.png" width="200px"><br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="20px"> Shift-Left and Shift-Right Testing in QAOps
+<img src="images/IMG_9090.PNG" width="200px"><br>
+<img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" width="60px"> Shift-Left and Shift-Right Testing in QAOps
 </a>
 </td>
 </tr>
@@ -94,29 +96,32 @@ Applying the Software Testing Life Cycle on a real-world demo application.
 <tr>
 <td align="center">
 <a href="https://www.linkedin.com/posts/lakindu-de-silva-460581344_why-qa-engineers-should-think-like-users-activity-7368506178466664449-5NvE">
-<img src="https://miro.medium.com/max/400/1*image_placeholder_here.png" width="200px"><br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20px"> Why QA Engineers Should Think Like Users
+<img src="images/IMG_9647.PNG" width="200px"><br>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="60px"> Why QA Engineers Should Think Like Users
 </a>
 </td>
+
 <td align="center">
 <a href="https://www.linkedin.com/posts/lakindu-de-silva-460581344_why-every-qa-engineer-should-learn-automation-activity-7367105682224934913-p9X8/">
-<img src="https://miro.medium.com/max/400/1*image_placeholder_here.png" width="200px"><br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20px"> Why Every QA Engineer Should Learn Automation
+<img src="images/IMG_9099.PNG" width="200px"><br>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="60px"> Why Every QA Engineer Should Learn Automation
 </a>
 </td>
+
 <td align="center">
 <a href="https://www.linkedin.com/posts/lakindu-de-silva-460581344_from-quality-assurance-to-quality-engineering-activity-7367848560391880705-c-hk">
-<img src="https://miro.medium.com/max/400/1*image_placeholder_here.png" width="200px"><br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20px"> From Quality Assurance to Quality Engineering
+<img src="images/IMG_9321.PNG" width="200px"><br>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="60px"> From Quality Assurance to Quality Engineering
 </a>
 </td>
 </tr>
 </table>
 
+
 **`Follow me for more`**  
 
 [![Follow on Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lakindudesilva007)
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakindu-de-silva-460581344/)
+[![Follow on LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakindu-de-silva-460581344/)
 
 
 
