@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Lakindu De Silva  
 
-**`Undergraduate | QA Enthusiast | Test Automation)`**
+**`Undergraduate | QA Enthusiast | Test Automation`**
 
 I’m a self-taught QA Engineer and Information Systems undergraduate with hands-on experience in automation across UI, API, performance, and security testing. Skilled in building end-to-end test pipelines with CI/CD and accessibility integration while applying Agile and DevOps practices. Known for rapid learning, problem-solving, and delivering reliable test solutions, while contributing to the QA community by sharing my knowledge and journey on [LinkedIn](https://www.linkedin.com/in/lakindu-de-silva-460581344/) and [Medium](https://medium.com/@lakindudesilva007).  
 
