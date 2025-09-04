@@ -52,13 +52,13 @@ I’m a self-taught QA Engineer and Information Systems undergraduate with hands
 <table>
 <tr>
 <td align="center" bgcolor="#f0f4f8" width="300" style="border-radius:10px; padding:10px;">
-<img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" width="40px"><br><br>
+<img src="images/Project1.png" width="150px"><br><br>
 <a href="https://github.com/LakinduQA/playwright_ifs.com"><b>Playwright Automation for IFS.com</b></a><br>
 End-to-end UI automation using Playwright.
 </td>
 
 <td align="center" bgcolor="#f0f4f8" width="300" style="border-radius:10px; padding:10px;">
-<img src="https://img.shields.io/badge/STLC-FF5722?logo=testinglibrary&logoColor=white" width="40px"><br><br>
+<img src="images/Project2.png" width="150px"><br><br>
 <a href="https://github.com/LakinduQA/STLC-Implementation---Sauce-Demo-E-commerce-Platform"><b>STLC Implementation – Sauce Demo E-commerce</b></a><br>
 Applying the Software Testing Life Cycle on a real-world demo application.
 </td>
