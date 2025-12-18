@@ -36,6 +36,7 @@ I’m a self-taught QA Engineer and Information Systems undergraduate with hands
 
 **CI/CD & Platforms**  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) 
 ![WSL](https://img.shields.io/badge/WSL-4EAA25?logo=linux&logoColor=white)  
 
